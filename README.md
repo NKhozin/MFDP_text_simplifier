@@ -1,4 +1,7 @@
 ## mfdp_text_simplifier - проект по созданию сервиса суммаризации текстов
+###Модель: https://huggingface.co/nikitakhozin/t5_summarization
+###Контейнер телеграмм бота: https://hub.docker.com/r/nkhozin/summarization_bot
+
 ### Описание файлов в архиве:
 - data_prepare_main.ipynb - подготовка данных и разделение их на тренировочный, валидационный и тестовый наборы.
 - rut5.ipynb - обучение модели Т5.
