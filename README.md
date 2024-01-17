@@ -118,7 +118,7 @@ git clone https://github.com/NKhozin/MFDP_text_simplifier
 Перейдите в папку MFDP_text_simplifier:
 ```python
 ```
-cd mfdp-emotion-detection
+cd mfdp-emotion-detection/inference_example
 #### Шаг 3
 Установить необходимые версии библиотек из файла requirements.txt:
 ```python
